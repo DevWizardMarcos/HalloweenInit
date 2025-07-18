@@ -60,9 +60,9 @@ HalloweenInit é uma página web temática desenvolvida com **HTML**, **CSS** e 
 ## 🕸️ Demonstração Visual
 
 Veja um pouco do que te espera...
-![Preview HalloweenInit](/assets/halloween-preview1.gif)
-![Preview Personagens](/assets/halloween-preview2.png)
-![Preview HalloweenInit](/assets/halloween-preview3.gif)
+![Preview HalloweenInit](anima2.gif)
+![Preview HalloweenInit](anima1.gif)
+![Preview Personagens](anima3.gif)
 
 
 ---
