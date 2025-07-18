@@ -10,7 +10,7 @@ Transições assombradas: Movimentações e efeitos que capturam o espírito do 
 
 Bem-vindo ao **HalloweenInit**, o projeto ideal para quem quer viver o espírito do Halloween de forma imersiva e assustadora! Prepare-se para transições sombrias, sons arrepilantes e personagens fantasmagóricos que vão desafiar sua coragem!
 
-![Banner HalloweenInit](/assets/banner-halloween.png)
+![Banner HalloweenInit](halloween1.PNG)
 
 ---
 
